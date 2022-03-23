@@ -1,0 +1,25 @@
+<!-- <template>
+    <div>
+      <section>
+  <div class="skewed"></div>
+</section>
+    </div>
+</template>
+<style scoped>
+
+.skewed {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #2c3e50;
+  z-index: 0;
+  transform: skewY(-28deg);
+  transform-origin: top left;
+}
+
+
+</style> -->

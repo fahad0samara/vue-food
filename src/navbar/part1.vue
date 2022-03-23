@@ -72,6 +72,7 @@ chopping & marinoting, so you can cook fresh food</h3>
 <div > 
 <img src="../assets/1.png"  class="w-52 p-5  absolute bottom-0    rounded-full">
 </div>
+
 </template>
 <style scoped>
 
