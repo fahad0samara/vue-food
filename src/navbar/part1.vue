@@ -2,8 +2,8 @@
 <section>
   <div class="skewed bg-yellow-400"></div>
 </section>
-<div class="body">
-    <nav class="menu-container">
+<div class="body ">
+    <nav class="menu-container mt-12">
   <!-- burger menu -->
   <input type="checkbox" aria-label="Toggle menu" />
   <span></span>
@@ -17,8 +17,8 @@
   </a>
 
   <!-- menu items -->
-  <div class="menu">
-    <ul>
+  <div class="menu font-extrabold">
+    <ul > 
       <li>
         <a href="#home">
           Home
@@ -56,16 +56,63 @@
 </nav>
 </div>
 <div class=" grid grid-cols-2 absolute  ">
-<div> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque consectetur ipsam reiciendis quasi voluptates. Est quam natus vero odit culpa tenetur vitae sequi delectus quod fugit, ex provident labore nobis.</div>
+<div class=" mt-24 ml-4  space-y-9"><h1 class=" text-6xl font-bold">Your 
+<span class=" text-amber-400 mt-2 ">favorite's </span>
+Food
+Delivered Hot &
+Fresh</h1> 
+<h3 class=" text-3xl font-semibold "> Healthy switcheroos de of the prep work, the prepping
+chopping & marinoting, so you can cook fresh food</h3>
+<button class=" bg-yellow-400 text-xl font-bold ml-40">Order Now</button>
+</div>
 <div class="img ">
 <img src="../assets/0.jpeg" alt="" class=" rounded-full">
 </div>
 </div>
+<div > 
+<img src="../assets/1.png"  class="w-52 p-5  absolute bottom-0    rounded-full">
+</div>
 </template>
 <style scoped>
+
+button {
+ width: 9em;
+ height: 3em;
+ border-radius: 30em;
+
+ border: none;
+ position: relative;
+ overflow: hidden;
+ z-index: 1;
+ box-shadow: 6px 6px 12px #c5c5c5,
+             -6px -6px 12px #111110;
+}
+
+button::before {
+ content: '';
+ width: 0;
+ height: 3em;
+ border-radius: 30em;
+ position: absolute;
+ top: 0;
+ left: 0;
+ background-image: linear-gradient(to right, #0fd850 0%, #f9f047 100%);
+ transition: .5s ease;
+ display: block;
+ z-index: -1;
+}
+
+button:hover::before {
+ width: 9em;
+}
 .img {
     height: 500px;
-    width: 500px;}
+    width: 500px;
+border-radius: 50%;
+background: linear-gradient(-145deg, #0c0c0c, #111111);
+box-shadow:  50px 50px 100px #eeeaea,
+             -50px 50px 100px #0a0a0a;
+    }
 .skewed {
   position: absolute;
   top: 0;
@@ -117,7 +164,7 @@
 
 .menu-container input {
   display: block;
-  width: 35px;
+  width: 50px;
   height: 25px;
   margin: 0;
   position: absolute;
@@ -172,7 +219,7 @@
 
 .menu li {
   padding: 10px 0;
-  font-size: 22px;
+  font-size: 30px;
 }
 
 /* mobile styles */
