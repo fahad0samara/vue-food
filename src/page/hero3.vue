@@ -40,7 +40,7 @@ refrigerated box.</h2></div>
 everything that <br> is not essential to makinave to get bad.</h2>
 </div>
 <div class=" grid grid-cols-3  ">
-<div class="flex justify-center rounded-tl-full rounded-tr-3xl">
+<div class="flex justify-center rounded-tl-full rounded-tr-3xl hover:ml-9">
   <div class="rounded-lg shadow-lg bg-white max-w-sm">
     <a href="#!">
       <img class="rounded-t-lg" src="../assets/4.jpg" alt=""/>
@@ -63,7 +63,7 @@ everything that <br> is not essential to makinave to get bad.</h2>
     </div>
   </div>
 </div>
-<div class="flex justify-center rounded-tl-full rounded-tr-3xl">
+<div class="flex justify-center rounded-tl-full rounded-tr-3xl hover:ml-9">
   <div class="rounded-lg shadow-lg bg-white max-w-sm">
     <a href="#!">
       <img class="rounded-t-lg" src="../assets/6.jpg" alt=""/>
@@ -86,7 +86,7 @@ everything that <br> is not essential to makinave to get bad.</h2>
     </div>
   </div>
 </div>
-<div class="flex justify-center rounded-tl-full rounded-tr-3xl">
+<div class="flex justify-center rounded-tl-full rounded-tr-3xl hover:ml-9">
   <div class="rounded-lg shadow-lg bg-white max-w-sm">
     <a href="#!">
       <img class="rounded-t-lg" src="../assets/7.jpg" alt=""/>
@@ -110,7 +110,7 @@ everything that <br> is not essential to makinave to get bad.</h2>
     </div>
   </div>
 </div>
-<div class="flex justify-center rounded-tl-full rounded-tr-3xl">
+<div class="flex justify-center rounded-tl-full rounded-tr-3xl hover:ml-9">
   <div class="rounded-lg shadow-lg bg-white max-w-sm">
     <a href="#!">
       <img class="rounded-t-lg" src="../assets/4.jpg" alt=""/>
@@ -133,7 +133,7 @@ everything that <br> is not essential to makinave to get bad.</h2>
     </div>
   </div>
 </div>
-<div class="flex justify-center rounded-tl-full rounded-tr-3xl">
+<div class="flex justify-center rounded-tl-full rounded-tr-3xl hover:ml-9">
   <div class="rounded-lg shadow-lg bg-white max-w-sm">
     <a href="#!">
       <img class="rounded-t-lg " src="../assets/11.png" alt=""/>
@@ -156,7 +156,7 @@ everything that <br> is not essential to makinave to get bad.</h2>
     </div>
   </div>
 </div>
-<div class="flex justify-center rounded-tl-full rounded-tr-3xl ">
+<div class="flex justify-center rounded-tl-full rounded-tr-3xl hover:ml-9 ">
   <div class="rounded-lg shadow-lg bg-white max-w-sm">
     <a href="#!">
       <img class="rounded-t-lg" src="../assets/8.jpg" alt=""/>
@@ -176,11 +176,28 @@ everything that <br> is not essential to makinave to get bad.</h2>
       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify  bg-yellow-400   text-neutral-50 rounded-tl-full text-center iconify--carbon" width="200" height="70" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M17 15V8h-2v7H8v2h7v7h2v-7h7v-2z"></path></svg>
       </button>
       </div>
+
     </div>
   </div>
 </div>
 
 
+</div>
+<div class=" flex items-center justify-center m-12 hover:ml-9">
+<button class="cta text-3xl">
+  <span>Load More</span>
+  <svg viewBox="0 0 13 10" height="10px" width="15px">
+    <path d="M1,5 L11,5"></path>
+    <polyline points="8 1 12 5 8 9"></polyline>
+  </svg>
+</button>
+</div>  
+
+<div class="  rounded-b-2xl   flex flex-col justify-center items-center m-24 space-y-3">
+    <h1 class=" text-4xl  text-yellow-400 font-black ">Testimonial</h1>
+    <h1 class=" text-6xl font-extrabold">What They Are Saying</h1>
+    <h2 class=" text-2xl font-medium ">It's through mistakes that you actually can grow you get rid of <br>
+everything that is not essential to makihave to get bad.</h2>
 </div>
     </div>
 
@@ -199,6 +216,63 @@ box-shadow:
 
 ;}
 
+
+.cta {
+ position: relative;
+ margin: auto;
+ padding: 12px 18px;
+ transition: all 0.2s ease;
+ border: none;
+ background: none;
+}
+
+.cta:before {
+ content: "";
+ position: absolute;
+ top: 0;
+ left: 0;
+ display: block;
+ border-radius: 50px;
+ background: #f7de03;
+ width: 45px;
+ height: 45px;
+ transition: all 0.3s ease;
+}
+
+.cta span {
+ position: relative;
+ font-family: "Ubuntu", sans-serif;
+ font-size: 18px;
+ font-weight: 700;
+ letter-spacing: 0.05em;
+ color: #0a0a0a;
+}
+
+.cta svg {
+ position: relative;
+ top: 0;
+ margin-left: 10px;
+ fill: none;
+ stroke-linecap: round;
+ stroke-linejoin: round;
+ stroke: #234567;
+ stroke-width: 2;
+ transform: translateX(-5px);
+ transition: all 0.3s ease;
+}
+
+.cta:hover:before {
+ width: 100%;
+ background: #d2f703;
+}
+
+.cta:hover svg {
+ transform: translateX(0);
+}
+
+.cta:active {
+ transform: scale(0.95);
+}
 
 
 
