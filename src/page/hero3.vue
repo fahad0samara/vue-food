@@ -281,7 +281,7 @@ facebook
 
 </div>
 
-<footer class="bg-gray-100 text-center">
+<footer class="  bg-yellow-400 text-center">
   <div class="px-6 pt-6">
     <form action="">
       <div class="grid md:grid-cols-3 gird-cols-1 gap-4 flex justify-center items-center">
@@ -326,7 +326,7 @@ facebook
     </form>
   </div>
 
-  <div class="container p-6">
+  <div class="container p-6  bg-black ml-7">
     <div class="grid lg:grid-cols-6 md:grid-cols-3 gap-3">
       <div class="lg:mb-0 mb-6">
         <img
@@ -346,7 +346,7 @@ facebook
       class="w-full  h-60 rounded-md shadow-lg  "
         />
       </div>
-      <div class="lg:mb-0 mb-6">
+      <div class="lg:mb-0 mb-6 xx">
         <img
            src="../assets/15.png"
        class="w-full  h-60 rounded-md shadow-lg  "
