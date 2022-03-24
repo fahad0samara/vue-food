@@ -74,7 +74,7 @@ chopping & marinoting, so you can cook fresh food</h3>
 </div>
 
 </template>
-<style scoped>
+<style scoped >
 
 button {
  width: 9em;

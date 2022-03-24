@@ -18,7 +18,7 @@
     </div>
     </div>
 </template>
-<style scoped>
+<style scoped >
 .div1{
 
 top:700px;
