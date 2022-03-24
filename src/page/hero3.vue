@@ -199,10 +199,239 @@ everything that <br> is not essential to makinave to get bad.</h2>
     <h2 class=" text-2xl font-medium ">It's through mistakes that you actually can grow you get rid of <br>
 everything that is not essential to makihave to get bad.</h2>
 </div>
+<div class=" grid grid-cols-3">
+
+<div class="flex justify-center">
+  <div class="block rounded-lg shadow-lg   bg-black max-w-sm text-center">
+    <div class=" flex py-3 px-6 border-b text-blue-500 text-center items-center font-black text-2xl border-gray-300">
+    
+ 
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify text-gray-50  iconify--carbon" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M26.67 4H5.33A1.34 1.34 0 0 0 4 5.33v21.34A1.34 1.34 0 0 0 5.33 28h11.49v-9.28H13.7v-3.63h3.12v-2.67c0-3.1 1.89-4.79 4.67-4.79c.93 0 1.86 0 2.79.14V11h-1.91c-1.51 0-1.8.72-1.8 1.77v2.31h3.6l-.47 3.63h-3.13V28h6.1A1.34 1.34 0 0 0 28 26.67V5.33A1.34 1.34 0 0 0 26.67 4Z"></path></svg>
+facebook
+ 
+    </div>
+    <div class="p-6">
+      <h5 class=" text-neutral-50 font-bold text-2xl  mb-2">Special title treatment</h5>
+      <p class=" text-yellow-500 font-bold text-base mb-4">
+      They are engaged communicators and dedicated problem-solvers regardless of time constraints. The team manageprojet them.
+      </p>
+
+    </div>
+    <div class="py-3 px-6 border-t border-gray-300  text-lime-300 font-extrabold">
+      4 days ago
+    </div>
+  </div>
+</div>
+
+<div class="flex justify-center">
+  <div class="block rounded-lg shadow-lg   bg-black max-w-sm text-center">
+    <div class=" flex py-3 px-6 border-b text-blue-500 text-center items-center font-black text-2xl border-gray-300">
+    
+ 
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify text-gray-50  iconify--carbon" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M26.67 4H5.33A1.34 1.34 0 0 0 4 5.33v21.34A1.34 1.34 0 0 0 5.33 28h11.49v-9.28H13.7v-3.63h3.12v-2.67c0-3.1 1.89-4.79 4.67-4.79c.93 0 1.86 0 2.79.14V11h-1.91c-1.51 0-1.8.72-1.8 1.77v2.31h3.6l-.47 3.63h-3.13V28h6.1A1.34 1.34 0 0 0 28 26.67V5.33A1.34 1.34 0 0 0 26.67 4Z"></path></svg>
+facebook
+ 
+    </div>
+    <div class="p-6">
+      <h5 class=" text-neutral-50 font-bold text-2xl  mb-2">Special title treatment</h5>
+      <p class=" text-yellow-500 font-bold text-base mb-4">
+      They are engaged communicators and dedicated problem-solvers regardless of time constraints. The team manageprojet them.
+      </p>
+
+    </div>
+    <div class="py-3 px-6 border-t border-gray-300  text-lime-300 font-extrabold">
+      3 days ago
+    </div>
+  </div>
+</div>
+<div class="flex justify-center">
+  <div class="block rounded-lg shadow-lg   bg-black max-w-sm text-center">
+    <div class=" flex py-3 px-6 border-b text-blue-500 text-center items-center font-black text-2xl border-gray-300">
+    
+ 
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify text-gray-50  iconify--carbon" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M26.67 4H5.33A1.34 1.34 0 0 0 4 5.33v21.34A1.34 1.34 0 0 0 5.33 28h11.49v-9.28H13.7v-3.63h3.12v-2.67c0-3.1 1.89-4.79 4.67-4.79c.93 0 1.86 0 2.79.14V11h-1.91c-1.51 0-1.8.72-1.8 1.77v2.31h3.6l-.47 3.63h-3.13V28h6.1A1.34 1.34 0 0 0 28 26.67V5.33A1.34 1.34 0 0 0 26.67 4Z"></path></svg>
+facebook
+ 
+    </div>
+    <div class="p-6">
+      <h5 class=" text-neutral-50 font-bold text-2xl  mb-2">Special title treatment</h5>
+      <p class=" text-yellow-500 font-bold text-base mb-4">
+      They are engaged communicators and dedicated problem-solvers regardless of time constraints. The team manageprojet them.
+      </p>
+
+    </div>
+    <div class="py-3 px-6 border-t border-gray-300  text-lime-300 font-extrabold">
+      2 days ago
+    </div>
+  </div>
+</div>
+
+
+
+</div>
+<div class=" flex flex-col justify-center items-center space-y-5 font-black">
+<h1 class=" text-6xl">Have Question in mind? 
+<br>
+
+ </h1>
+ 
+<h1 class=" text-6xl  text-yellow-400">Let us help you</h1>
+</div>
+<div>
+
+</div>
+
+<footer class="bg-gray-100 text-center">
+  <div class="px-6 pt-6">
+    <form action="">
+      <div class="grid md:grid-cols-3 gird-cols-1 gap-4 flex justify-center items-center">
+        <div class="md:ml-auto md:mb-6">
+          <p class="text-gray-800">
+           
+          </p>
+        </div>
+
+        <div class="md:mb-6">
+          <input
+            type="text"
+            class="
+              form-control
+              block
+              w-full
+              px-3
+              py-1.5
+              text-base
+              font-normal
+              text-gray-700
+              bg-white bg-clip-padding
+              border border-solid border-gray-300
+              rounded
+              transition
+              ease-in-out
+              m-0
+              focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none
+            "
+            id="exampleFormControlInput1"
+            placeholder="Email address"/>
+        </div>
+
+        <div class="md:mr-auto mb-6">
+        <button class="cssbuttons-io-button"> send
+  <div class="icon">
+    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h24v24H0z" fill="none"></path><path d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z" fill="currentColor"></path></svg>
+  </div>
+</button>
+        </div>
+      </div>
+    </form>
+  </div>
+
+  <div class="container p-6">
+    <div class="grid lg:grid-cols-6 md:grid-cols-3 gap-3">
+      <div class="lg:mb-0 mb-6">
+        <img
+      src="../assets/14.png"
+         class="w-full  h-60 rounded-md shadow-lg  "
+        />
+      </div>
+      <div class="lg:mb-0 mb-6">
+        <img
+          src="../assets/13.png"
+       class="w-full  h-60 rounded-md shadow-lg  "
+        />
+      </div>
+      <div class="lg:mb-0 mb-6">
+        <img
+     src="../assets/12.png"
+      class="w-full  h-60 rounded-md shadow-lg  "
+        />
+      </div>
+      <div class="lg:mb-0 mb-6">
+        <img
+           src="../assets/15.png"
+       class="w-full  h-60 rounded-md shadow-lg  "
+        />
+      </div>
+      <div class="lg:mb-0 mb-6">
+        <img
+           src="../assets/16.png"
+           class="w-full  h-60 rounded-md shadow-lg  "
+        />
+      </div>
+      <div class="lg:mb-0 mb-6">
+        <img
+           src="../assets/17.png"
+        class="w-full  h-60 rounded-md shadow-lg  "
+        />
+      </div>
+    </div>
+  </div>
+
+
+  <div class="text-center text-gray-700 p-4" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2022 Copyright:
+    <a class="text-gray-800" href="https://github.com/fahad0samara">fahad samara </a>
+  </div>
+</footer>
     </div>
 
 </template>
 <style>
+
+.cssbuttons-io-button {
+ background: #A370F0;
+ color: white;
+ font-family: inherit;
+ padding: 0.35em;
+ padding-left: 1.2em;
+ font-size: 17px;
+ font-weight: 500;
+ border-radius: 0.9em;
+ border: none;
+ letter-spacing: 0.05em;
+ display: flex;
+ align-items: center;
+ box-shadow: inset 0 0 1.6em -0.6em #714da6;
+ overflow: hidden;
+ position: relative;
+ height: 2.8em;
+ padding-right: 3.3em;
+}
+
+.cssbuttons-io-button .icon {
+ background: white;
+ margin-left: 1em;
+ position: absolute;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ height: 2.2em;
+ width: 2.2em;
+ border-radius: 0.7em;
+ box-shadow: 0.1em 0.1em 0.6em 0.2em #7b52b9;
+ right: 0.3em;
+ transition: all 0.3s;
+}
+
+.cssbuttons-io-button:hover .icon {
+ width: calc(100% - 0.6em);
+}
+
+.cssbuttons-io-button .icon svg {
+ width: 1.1em;
+ transition: transform 0.3s;
+ color: #7b52b9;
+}
+
+.cssbuttons-io-button:hover .icon svg {
+ transform: translateX(0.1em);
+}
+
+.cssbuttons-io-button:active .icon {
+ transform: scale(0.95);
+}
+
+
 .div1{
 top:800px;
 position: relative;
